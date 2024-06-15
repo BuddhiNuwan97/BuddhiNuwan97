@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buddhi Nuwan Kumarasinghe</h1>
 <h3 align="center">passionate IT Student | Exploring the vast world of technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=buddhinuwan97&label=Profile%20views&color=0e75b6&style=flat" alt="buddhinuwan97" /> </p>
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=BuddhiNuwan97&label=Profile%20Views&color=3&icon=5&pretty=true" /></p>
 <table align="center">
 <tr border="none">
 <td width="100%" align="left">
@@ -13,17 +13,20 @@
 - ⚡ Fun fact **Call me as Nuwa**
   
 </td>
-<td width="100%" align="center">
-
+<td align="center">
+  
 
 </td>
 </tr>
 </table>
 
 ---
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhinuwan97&show_icons=true&locale=en" alt="buddhinuwan97" /></p>
+![](https://github-readme-stats.vercel.app/api?username=BuddhiNuwan97&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BuddhiNuwan97&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhiNuwan97&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Socials</h3>
 <p align="center">
 <a href="https://linkedin.com/in/buddhi-nuwan-34b8ab187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buddhi-nuwan-26018223a" height="30" width="50" /></a>
 <a href="https://fb.com/buddhi kumarasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buddhi kumarasingha" height="30" width="50" /></a>
