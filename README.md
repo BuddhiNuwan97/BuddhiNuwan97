@@ -63,17 +63,17 @@
 </p>
 
 ---
-<table>
+<table align="center">
   <tr>
     <th>
-      <img align="Left" alt="cat" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+      <img align="Left" alt="cat" width=250px height=250px src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
     </th>
     <th>
-      <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+      <img align="center" alt="Coding" width=250px height=250px src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
   <h1 align="center">
     </th>
     <th>
-      <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+      <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
     </th>
   </tr>
 </table>
