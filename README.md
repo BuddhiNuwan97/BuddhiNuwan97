@@ -78,7 +78,7 @@
   </tr>
 </table>
 <p>
-   <h1 align="center"> SUPPORT :</h1><p align="center"><a href="https://buymeacoffee.com/buddhinuwan97"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+   <h1 align="center"> SUPPORT</h1><p align="center"><a href="https://buymeacoffee.com/buddhinuwan97"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
    <h4 align="center"> THANKS FOR WATCHING MY ACCOUNT </h4>
 </p>
 
